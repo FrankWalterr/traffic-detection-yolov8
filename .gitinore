@@ -1,0 +1,14 @@
+# Ignore pastas
+venv/
+__pycache__/
+sort/__pycache__/
+
+# Ignore ficheiros de modelo e vídeo
+*.pt
+*.mp4
+saida_detectada*
+
+# Ignore arquivos do sistema/editor
+.DS_Store
+.vscode/
+.idea/
